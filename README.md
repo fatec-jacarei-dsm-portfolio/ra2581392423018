@@ -1,2 +1,5 @@
-# ra2581392423018
-Repositório do aluno CARLOS EDUARDO DA SILVA MAGALHAES.
+# Documentação
+# Portfólio de Projetos - Fatec Jacareí
+### Aluno: [Carlos Eduardo da Silva Magalhães]
+### Curso: Desenvolvimento de Software Multiplataforma
+### Turma: 2o. Semestre de 2024
